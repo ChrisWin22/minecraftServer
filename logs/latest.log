@@ -1,0 +1,67 @@
+[17:33:27] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:33:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:33:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:33:27] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:33:27] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:33:27] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[17:33:28] [Worker-Main-13/INFO]: Loaded 7 recipes
+[17:33:28] [Worker-Main-13/INFO]: Loaded 927 advancements
+[17:33:29] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[17:33:29] [Server thread/INFO]: Loading properties
+[17:33:29] [Server thread/INFO]: Default game type: SURVIVAL
+[17:33:29] [Server thread/INFO]: Generating keypair
+[17:33:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:33:30] [Server thread/INFO]: Using epoll channel type
+[17:33:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:33:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:33:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:33:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:33:30] [Server thread/INFO]: Preparing level "world"
+[17:33:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:33:31] [Server thread/INFO]: Preparing spawn area: 0%
+[17:33:31] [Server thread/INFO]: Preparing spawn area: 0%
+[17:33:31] [Server thread/INFO]: Preparing spawn area: 0%
+[17:33:31] [Server thread/INFO]: Preparing spawn area: 0%
+[17:33:32] [Server thread/INFO]: Preparing spawn area: 40%
+[17:33:32] [Server thread/INFO]: Time elapsed: 2202 ms
+[17:33:32] [Server thread/INFO]: Done (2.258s)! For help, type "help"
+[17:53:35] [Server thread/INFO]: kiersto55[/192.168.1.149:55528] logged in with entity id 283 at (12.876322351727948, 71.5625, 282.4438481142676)
+[17:53:35] [Server thread/INFO]: kiersto55 joined the game
+[17:53:39] [Server thread/INFO]: kiersto55 lost connection: Disconnected
+[17:53:39] [Server thread/INFO]: kiersto55 left the game
+[17:53:39] [Server thread/WARN]: handleDisconnection() called twice
+[17:53:39] [Server thread/INFO]: kiersto55[/192.168.1.149:55529] logged in with entity id 290 at (12.876322351727948, 71.5625, 282.4438481142676)
+[17:53:39] [Server thread/INFO]: kiersto55 joined the game
+[17:53:45] [Server thread/INFO]: kiersto55 lost connection: Disconnected
+[17:53:45] [Server thread/INFO]: kiersto55 left the game
+[18:16:47] [Server thread/INFO]: kiersto55[/192.168.1.149:49840] logged in with entity id 292 at (12.876322351727948, 71.5625, 282.4438481142676)
+[18:16:47] [Server thread/INFO]: kiersto55 joined the game
+[18:16:48] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/299, l='ServerLevel[world]', x=-11.41, y=65.00, z=292.41]
+[18:36:36] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/3765, l='ServerLevel[world]', x=-15.30, y=65.00, z=293.52]
+[18:38:35] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/4114, l='ServerLevel[world]', x=-15.46, y=65.00, z=297.17]
+[19:04:45] [Server thread/INFO]: kiersto55 has made the advancement [Ice Bucket Challenge]
+[19:10:10] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/9323, l='ServerLevel[world]', x=-14.43, y=65.00, z=293.47]
+[19:11:24] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/9504, l='ServerLevel[world]', x=-15.88, y=65.00, z=293.94]
+[19:18:59] [Server thread/INFO]: kiersto55 tried to swim in lava
+[20:31:55] [Server thread/INFO]: kiersto55 was shot by Skeleton
+[20:34:56] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/23430, l='ServerLevel[world]', x=-14.54, y=65.00, z=293.97]
+[20:40:45] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/24380, l='ServerLevel[world]', x=-11.49, y=65.00, z=296.11]
+[20:41:25] [Server thread/INFO]: kiersto55 lost connection: Disconnected
+[20:41:25] [Server thread/INFO]: kiersto55 left the game
+[20:43:07] [Server thread/INFO]: /192.168.1.149:50277 lost connection: Disconnected
+[20:43:09] [Server thread/INFO]: kiersto55[/192.168.1.149:50280] logged in with entity id 24466 at (14.5, 71.5625, 282.5)
+[20:43:09] [Server thread/INFO]: kiersto55 joined the game
+[20:58:26] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:271) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:282) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:297) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:339) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:181) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:326) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:392) ~[?:?]
+	at zg$1.run(SourceFile:95) [server.jar:?]
