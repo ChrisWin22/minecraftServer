@@ -1,160 +1,78 @@
-[04:17:15] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[04:17:16] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[04:17:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:17:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:17:16] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[04:17:16] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:17:16] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[04:17:17] [Worker-Main-14/INFO]: Loaded 7 recipes
-[04:17:18] [Worker-Main-14/INFO]: Loaded 927 advancements
-[04:17:19] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[04:17:19] [Server thread/INFO]: Loading properties
-[04:17:19] [Server thread/INFO]: Default game type: SURVIVAL
-[04:17:19] [Server thread/INFO]: Generating keypair
-[04:17:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:17:19] [Server thread/INFO]: Using default channel type
-[04:17:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:17:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:17:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:17:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:17:20] [Server thread/INFO]: Preparing level "world"
-[04:17:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:17:21] [Server thread/INFO]: Preparing spawn area: 0%
-[04:17:21] [Server thread/INFO]: Preparing spawn area: 0%
-[04:17:21] [Server thread/INFO]: Preparing spawn area: 0%
-[04:17:22] [Server thread/INFO]: Preparing spawn area: 19%
-[04:17:23] [Server thread/INFO]: Time elapsed: 2718 ms
-[04:17:23] [Server thread/INFO]: Done (2.823s)! For help, type "help"
-[04:20:54] [Server thread/INFO]: kiersto55[/192.168.1.111:51319] logged in with entity id 267 at (17.770243165532307, 12.0, 116.95014748470666)
-[04:20:54] [Server thread/INFO]: kiersto55 joined the game
-[04:26:01] [Server thread/INFO]: isaac[/192.168.1.149:59990] logged in with entity id 1135 at (6.5, 75.0, 240.5)
-[04:26:01] [Server thread/INFO]: isaac joined the game
-[04:28:09] [Server thread/INFO]: wildstar180[/127.0.0.1:49753] logged in with entity id 1639 at (11.198298558091953, 71.0, 282.6742105452737)
-[04:28:09] [Server thread/INFO]: wildstar180 joined the game
-[04:28:13] [Server thread/INFO]: isaac has made the advancement [Acquire Hardware]
-[04:32:11] [Server thread/INFO]: isaac has made the advancement [Isn't It Iron Pick]
-[04:34:32] [Server thread/INFO]: isaac has made the advancement [Monster Hunter]
-[04:39:25] [Server thread/INFO]: isaac has made the advancement [We Need to Go Deeper]
-[04:40:59] [Server thread/INFO]: isaac has made the advancement [Those Were the Days]
-[04:43:25] [Server thread/INFO]: isaac has made the advancement [Suit Up]
-[05:01:13] [Server thread/INFO]: isaac has made the advancement [Stone Age]
-[05:12:27] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/15114, l='ServerLevel[world]', x=-15.68, y=65.00, z=296.70]
-[05:12:27] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/15114, l='ServerLevel[world]', x=-15.68, y=65.00, z=296.70]
-[05:16:38] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/16754, l='ServerLevel[world]', x=-14.37, y=65.00, z=296.29]
-[05:24:35] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/22546, l='ServerLevel[world]', x=-14.93, y=65.00, z=292.39]
-[05:24:57] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/22701, l='ServerLevel[world]', x=-11.32, y=65.00, z=291.83]
-[05:28:57] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/24537, l='ServerLevel[world]', x=-15.50, y=65.00, z=293.00]
-[05:43:04] [Server thread/INFO]: isaac has made the advancement [Not Today, Thank You]
-[05:46:43] [Server thread/INFO]: kiersto55 was shot by Skeleton
-[06:14:52] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/44129, l='ServerLevel[world]', x=-15.78, y=65.00, z=295.37]
-[06:22:05] [Server thread/INFO]: <isaac> yall suck
-[06:23:08] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/47125, l='ServerLevel[world]', x=-14.72, y=65.00, z=292.28]
-[06:28:37] [Server thread/INFO]: <isaac> Chris sux
-[06:28:48] [Server thread/INFO]: <wildstar180> isaac sucks
-[06:28:56] [Server thread/INFO]: <isaac> no u
-[06:29:00] [Server thread/INFO]: <wildstar180> ur mum
-[06:32:44] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/51356, l='ServerLevel[world]', x=-15.05, y=65.00, z=296.16]
-[06:35:36] [Server thread/INFO]: isaac has made the advancement [Sweet Dreams]
-[06:35:48] [Server thread/INFO]: <isaac> go to sleep poopoo heads
-[06:35:49] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/52487, l='ServerLevel[world]', x=269.37, y=64.00, z=818.10]
-[06:36:24] [Server thread/INFO]: kiersto55 was shot by Skeleton
-[06:38:47] [Server thread/INFO]: wildstar180 lost connection: Disconnected
-[06:38:47] [Server thread/INFO]: wildstar180 left the game
-[06:48:33] [Server thread/INFO]: isaac lost connection: Disconnected
-[06:48:33] [Server thread/INFO]: isaac left the game
-[06:57:37] [Server thread/INFO]: kiersto55 was fireballed by Ghast
-[06:59:29] [Server thread/INFO]: kiersto55 hit the ground too hard
-[07:00:29] [Server thread/INFO]: kiersto55 walked into fire whilst fighting Ghast
-[07:02:59] [Server thread/INFO]: kiersto55 was fireballed by Ghast
-[07:02:59] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/62158, l='ServerLevel[world]', x=32.08, y=35.97, z=87.70]
-[07:02:59] [Server thread/WARN]: Fetching packet for removed entity bcv['Bone'/62159, l='ServerLevel[world]', x=32.08, y=35.97, z=87.70]
-[07:02:59] [Server thread/WARN]: Fetching packet for removed entity bcv['Flint and Steel'/62160, l='ServerLevel[world]', x=32.08, y=35.97, z=87.70]
-[07:02:59] [Server thread/WARN]: Fetching packet for removed entity bcv['Iron Ingot'/62161, l='ServerLevel[world]', x=32.08, y=35.97, z=87.70]
-[07:02:59] [Server thread/WARN]: Fetching packet for removed entity bcv['Iron Sword'/62162, l='ServerLevel[world]', x=32.08, y=35.97, z=87.70]
-[07:02:59] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/62163, l='ServerLevel[world]', x=32.08, y=35.97, z=87.70]
-[07:02:59] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/62164, l='ServerLevel[world]', x=32.08, y=35.97, z=87.70]
-[07:02:59] [Server thread/WARN]: Fetching packet for removed entity aqg['Experience Orb'/62165, l='ServerLevel[world]', x=32.08, y=35.00, z=87.70]
-[07:03:00] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: null
-	at zy.b(SourceFile:202) ~[server.jar:?]
-	at zs.a(SourceFile:939) ~[server.jar:?]
-	at aae.a(SourceFile:467) ~[server.jar:?]
-	at aay.a(SourceFile:931) ~[server.jar:?]
-	at st.a(SourceFile:122) ~[server.jar:?]
-	at st$a.a(SourceFile:56) ~[server.jar:?]
-	at ol.a(SourceFile:21) ~[server.jar:?]
-	at wb.run(SourceFile:18) ~[server.jar:?]
-	at aob.c(SourceFile:144) ~[server.jar:?]
-	at aof.c(SourceFile:23) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.b(SourceFile:761) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.c(SourceFile:155) ~[server.jar:?]
-	at aob.y(SourceFile:118) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:737) ~[server.jar:?]
-	at aob.bl(SourceFile:103) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.x(SourceFile:721) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:674) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[server.jar:?]
-	at java.lang.Thread.run(Thread.java:835) [?:?]
-[07:03:54] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/62564, l='ServerLevel[world]', x=277.04, y=64.00, z=812.32]
-[07:04:19] [Server thread/INFO]: kiersto55 walked into fire whilst fighting Ghast
-[07:06:13] [Server thread/INFO]: kiersto55 burned to death
-[07:06:14] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: null
-	at zy.b(SourceFile:202) ~[server.jar:?]
-	at zs.a(SourceFile:939) ~[server.jar:?]
-	at aae.a(SourceFile:467) ~[server.jar:?]
-	at aay.a(SourceFile:931) ~[server.jar:?]
-	at st.a(SourceFile:122) ~[server.jar:?]
-	at st$b.a(SourceFile:18) ~[server.jar:?]
-	at ol.a(SourceFile:21) ~[server.jar:?]
-	at wb.run(SourceFile:18) ~[server.jar:?]
-	at aob.c(SourceFile:144) ~[server.jar:?]
-	at aof.c(SourceFile:23) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.b(SourceFile:761) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.c(SourceFile:155) ~[server.jar:?]
-	at aob.y(SourceFile:118) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:737) ~[server.jar:?]
-	at aob.bl(SourceFile:103) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.x(SourceFile:721) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:674) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[server.jar:?]
-	at java.lang.Thread.run(Thread.java:835) [?:?]
-[07:11:22] [Server thread/INFO]: kiersto55 tried to swim in lava to escape Ghast
-[07:12:03] [Server thread/INFO]: kiersto55 hit the ground too hard whilst trying to escape Ghast
-[07:15:16] [Server thread/INFO]: kiersto55 burned to death
-[07:37:59] [Server thread/INFO]: kiersto55 hit the ground too hard
-[07:40:05] [Server thread/INFO]: kiersto55 lost connection: Disconnected
-[07:40:05] [Server thread/INFO]: kiersto55 left the game
-[07:40:11] [Server thread/INFO]: kiersto55[/192.168.1.111:51738] logged in with entity id 70916 at (263.44516314427045, 62.0, 822.3900362702366)
-[07:40:11] [Server thread/INFO]: kiersto55 joined the game
-[07:46:33] [Server thread/INFO]: kiersto55 tried to swim in lava to escape Hoglin
-[07:50:24] [Server thread/INFO]: kiersto55 was slain by Hoglin
-[07:51:12] [Server thread/INFO]: kiersto55 tried to swim in lava
-[07:53:42] [Server thread/WARN]: Fetching packet for removed entity bcv['Dirt'/74058, l='ServerLevel[world]', x=258.63, y=65.00, z=824.45]
-[07:59:11] [Server thread/INFO]: kiersto55 was slain by Hoglin
-[08:12:00] [Server thread/INFO]: kiersto55 fell from a high place
-[08:22:03] [Server thread/INFO]: kiersto55 has made the advancement [Those Were the Days]
-[08:37:48] [Server thread/INFO]: kiersto55 lost connection: Disconnected
-[08:37:48] [Server thread/INFO]: kiersto55 left the game
-[08:37:48] [Server thread/WARN]: handleDisconnection() called twice
-[08:37:48] [Server thread/INFO]: kiersto55[/192.168.1.111:51865] logged in with entity id 81205 at (264.8693891512425, 62.96636804164124, 820.3000000119209)
-[08:37:48] [Server thread/INFO]: kiersto55 joined the game
-[08:42:37] [Server thread/INFO]: kiersto55 was fireballed by Ghast
-[08:45:40] [Server thread/INFO]: kiersto55 was slain by Hoglin
-[08:46:33] [Server thread/INFO]: kiersto55 fell off a ladder
-[08:46:42] [Server thread/INFO]: kiersto55 lost connection: Disconnected
-[08:46:42] [Server thread/INFO]: kiersto55 left the game
-[08:50:00] [Server thread/INFO]: Stopping server
-[08:50:00] [Server thread/INFO]: Saving players
-[08:50:00] [Server thread/INFO]: Saving worlds
-[08:50:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[08:50:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08:50:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[08:50:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:50:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[08:50:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08:50:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08:50:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:50:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:07:00] [Server thread/INFO]: kiersto55 lost connection: Disconnected
+[00:07:00] [Server thread/INFO]: kiersto55 left the game
+[00:08:12] [Server thread/INFO]: kiersto55[/192.168.1.111:52465] logged in with entity id 49310 at (383.2151898866745, 63.0, 704.4718387824541)
+[00:08:12] [Server thread/INFO]: kiersto55 joined the game
+[00:08:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/49720, l='ServerLevel[world]', x=-12.34, y=65.00, z=292.74]
+[00:15:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/52218, l='ServerLevel[world]', x=-15.75, y=65.00, z=292.89]
+[00:16:12] [Server thread/INFO]: kiersto55 was shot by Skeleton
+[00:17:19] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/53125, l='ServerLevel[world]', x=-16.17, y=65.00, z=296.33]
+[00:23:13] [Server thread/WARN]: wildstar180 moved wrongly!
+[00:23:27] [Server thread/INFO]: kiersto55 was slain by Zombie
+[00:27:07] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/56515, l='ServerLevel[world]', x=277.01, y=64.00, z=815.81]
+[00:28:53] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/56989, l='ServerLevel[world]', x=276.45, y=64.00, z=816.54]
+[00:35:24] [Server thread/INFO]: kiersto55 has made the advancement [Voluntary Exile]
+[00:35:29] [Server thread/INFO]: kiersto55 tried to swim in lava to escape Pillager
+[00:52:02] [Server thread/INFO]: kiersto55 was slain by Spider
+[01:17:26] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/71657, l='ServerLevel[world]', x=276.55, y=64.00, z=817.10]
+[01:33:45] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/76054, l='ServerLevel[world]', x=-15.32, y=65.00, z=296.31]
+[01:42:55] [Server thread/INFO]: kiersto55 has made the advancement [Take Aim]
+[02:09:37] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/86583, l='ServerLevel[world]', x=-15.52, y=65.00, z=295.85]
+[02:11:45] [Server thread/INFO]: kiersto55 was killed by Witch using magic
+[02:18:17] [Server thread/INFO]: kiersto55 was shot by Skeleton
+[02:27:14] [Server thread/INFO]: kiersto55 has made the advancement [Cover Me With Diamonds]
+[02:28:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/93453, l='ServerLevel[world]', x=268.40, y=64.00, z=816.24]
+[02:31:40] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/95598, l='ServerLevel[world]', x=269.24, y=64.00, z=818.17]
+[02:33:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/96481, l='ServerLevel[world]', x=268.38, y=64.00, z=817.86]
+[02:47:25] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/100636, l='ServerLevel[world]', x=273.70, y=64.00, z=812.41]
+[02:50:43] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/101681, l='ServerLevel[world]', x=276.39, y=64.00, z=811.01]
+[02:58:31] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/104104, l='ServerLevel[world]', x=-13.40, y=65.00, z=291.83]
+[03:05:50] [Server thread/INFO]: kiersto55 was shot by Skeleton
+[03:05:51] [Server thread/WARN]: kiersto55 moved too quickly! -77.80000001192093,14.0,148.09718820625505
+[03:15:46] [Server thread/INFO]: Villager bfj['Villager'/99379, l='ServerLevel[world]', x=606.58, y=70.00, z=1209.24] died, message: 'Villager was slain by Zombie'
+[03:15:57] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/109595, l='ServerLevel[world]', x=277.67, y=64.00, z=815.35]
+[03:19:45] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/110598, l='ServerLevel[world]', x=273.57, y=64.00, z=813.14]
+[03:21:47] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/111151, l='ServerLevel[world]', x=274.01, y=64.00, z=816.69]
+[03:22:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/111256, l='ServerLevel[world]', x=274.31, y=64.00, z=817.77]
+[03:30:48] [Server thread/WARN]: Fetching packet for removed entity bcv['Oak Boat'/113318, l='ServerLevel[world]', x=37.94, y=35.10, z=105.33]
+[03:41:53] [Server thread/INFO]: kiersto55 was blown up by Creeper
+[03:41:54] [Server thread/WARN]: kiersto55 moved too quickly! -90.38066417382566,-4.0,92.90295979285622
+[03:43:06] [Server thread/INFO]: Villager bfj['Nitwit'/116721, l='ServerLevel[world]', x=37.05, y=73.90, z=266.05] died, message: 'Nitwit suffocated in a wall'
+[04:00:27] [Server thread/INFO]: Villager bfj['Villager'/122028, l='ServerLevel[world]', x=546.47, y=78.80, z=1157.70] died, message: 'Villager was slain by Zombie'
+[04:07:55] [Server thread/WARN]: Fetching packet for removed entity bcv['Oak Boat'/125590, l='ServerLevel[world]', x=39.05, y=35.00, z=106.78]
+[04:11:29] [Server thread/WARN]: Fetching packet for removed entity bcv['Oak Boat'/127037, l='ServerLevel[world]', x=32.26, y=64.00, z=275.13]
+[04:39:08] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/135278, l='ServerLevel[world]', x=277.41, y=64.00, z=811.90]
+[04:41:26] [Server thread/WARN]: Fetching packet for removed entity bcv['Oak Boat'/135953, l='ServerLevel[world]', x=37.74, y=35.00, z=105.85]
+[04:44:13] [Server thread/WARN]: Fetching packet for removed entity bcv['Oak Boat'/136642, l='ServerLevel[world]', x=32.88, y=64.00, z=275.13]
+[04:47:59] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/137690, l='ServerLevel[world]', x=-12.58, y=65.00, z=293.70]
+[04:49:41] [Server thread/INFO]: kiersto55 hit the ground too hard
+[04:49:48] [Server thread/WARN]: kiersto55 moved too quickly! 371.1913121313494,-6.0,-3.0285807270738587
+[04:49:48] [Server thread/WARN]: kiersto55 moved too quickly! 371.1913121313494,-6.0,-3.0285807270738587
+[04:51:05] [Server thread/INFO]: <kiersto55> help
+[05:05:54] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/144371, l='ServerLevel[world]', x=-10.99, y=65.00, z=292.50]
+[05:05:54] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/144371, l='ServerLevel[world]', x=-10.99, y=65.00, z=292.50]
+[05:09:47] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/144944, l='ServerLevel[world]', x=-16.17, y=65.00, z=294.12]
+[05:09:47] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/144944, l='ServerLevel[world]', x=-16.17, y=65.00, z=294.12]
+[05:17:58] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/146156, l='ServerLevel[world]', x=-15.67, y=65.00, z=295.93]
+[05:17:58] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/146156, l='ServerLevel[world]', x=-15.67, y=65.00, z=295.93]
+[05:28:29] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/147476, l='ServerLevel[world]', x=-16.17, y=65.00, z=291.93]
+[05:28:29] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/147476, l='ServerLevel[world]', x=-16.17, y=65.00, z=291.93]
+[05:30:10] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/147791, l='ServerLevel[world]', x=-13.35, y=65.00, z=297.17]
+[05:30:10] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/147791, l='ServerLevel[world]', x=-13.35, y=65.00, z=297.17]
+[22:31:52] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/148166, l='ServerLevel[world]', x=-15.08, y=65.00, z=292.59]
+[22:31:52] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/148166, l='ServerLevel[world]', x=-15.08, y=65.00, z=292.59]
+[22:38:02] [Server thread/INFO]: wildstar180 lost connection: Disconnected
+[22:38:02] [Server thread/INFO]: wildstar180 left the game
+[22:42:40] [Server thread/INFO]: kiersto55 lost connection: Disconnected
+[22:42:40] [Server thread/INFO]: kiersto55 left the game
+[22:42:49] [Server thread/INFO]: Stopping server
+[22:42:49] [Server thread/INFO]: Saving players
+[22:42:49] [Server thread/INFO]: Saving worlds
+[22:42:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:42:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:42:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:42:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:42:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:42:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:42:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:42:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:42:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
