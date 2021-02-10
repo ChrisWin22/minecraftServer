@@ -1140,6 +1140,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2021-02-09 17:56:01 -0700"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2021-01-17 14:05:01 -0700",
@@ -1423,6 +1429,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2021-02-09 17:56:01 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2021-01-10 21:17:18 -0700"
@@ -1668,9 +1680,11 @@
       "cooked_porkchop": "2021-01-17 16:23:48 -0700",
       "chicken": "2021-01-17 14:13:55 -0700",
       "cooked_beef": "2021-01-16 20:28:27 -0700",
+      "baked_potato": "2021-02-09 18:03:52 -0700",
       "porkchop": "2021-02-07 19:49:38 -0700",
       "apple": "2021-01-10 19:10:30 -0700",
       "spider_eye": "2021-02-07 04:48:17 -0700",
+      "potato": "2021-02-09 18:55:00 -0700",
       "cooked_cod": "2021-01-10 19:09:57 -0700",
       "mutton": "2021-01-10 20:22:18 -0700",
       "bread": "2021-01-11 01:58:25 -0700",
@@ -2140,6 +2154,12 @@
   "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-01-17 16:22:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2021-02-09 17:56:01 -0700"
     },
     "done": true
   },
