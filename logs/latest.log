@@ -1,45 +1,96 @@
-[00:00:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26715ms or 534 ticks behind
-[00:00:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2701ms or 54 ticks behind
-[00:00:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3151ms or 63 ticks behind
-[00:00:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2109ms or 42 ticks behind
-[00:01:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3378ms or 67 ticks behind
-[00:01:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[00:01:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2144ms or 42 ticks behind
-[00:02:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
-[00:02:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
-[00:02:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2129ms or 42 ticks behind
-[00:09:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4194ms or 83 ticks behind
-[00:09:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7965ms or 159 ticks behind
-[00:10:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23555ms or 471 ticks behind
-[00:24:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2159ms or 43 ticks behind
-[00:33:10] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/20661, l='ServerLevel[world]', x=-15.70, y=65.00, z=293.85]
-[00:33:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/20663, l='ServerLevel[world]', x=-15.50, y=65.00, z=295.21]
-[00:41:59] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/22032, l='ServerLevel[world]', x=-11.32, y=65.00, z=293.32]
-[00:42:29] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/22112, l='ServerLevel[world]', x=-14.76, y=65.00, z=294.33]
-[00:54:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2448ms or 48 ticks behind
-[00:55:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2485ms or 49 ticks behind
-[00:56:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2095ms or 41 ticks behind
-[00:56:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2792ms or 55 ticks behind
-[00:56:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2993ms or 59 ticks behind
-[00:57:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3674ms or 73 ticks behind
-[00:57:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[00:58:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[00:58:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
-[00:59:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[01:00:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
-[01:00:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3681ms or 73 ticks behind
-[01:03:31] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/28307, l='ServerLevel[world]', x=-14.49, y=65.00, z=292.97]
-[01:05:16] [Server thread/INFO]: kiersto55 lost connection: Disconnected
-[01:05:16] [Server thread/INFO]: kiersto55 left the game
-[01:23:48] [Server thread/INFO]: Stopping server
-[01:23:48] [Server thread/INFO]: Saving players
-[01:23:48] [Server thread/INFO]: Saving worlds
-[01:23:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:23:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:23:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:23:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:23:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:23:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:23:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:23:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:23:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:13:23] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:13:24] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:13:24] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:13:24] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:13:24] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:13:24] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:13:24] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[12:13:25] [Worker-Main-11/INFO]: Loaded 7 recipes
+[12:13:25] [Worker-Main-11/INFO]: Loaded 927 advancements
+[12:13:27] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[12:13:27] [Server thread/INFO]: Loading properties
+[12:13:27] [Server thread/INFO]: Default game type: SURVIVAL
+[12:13:27] [Server thread/INFO]: Generating keypair
+[12:13:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:13:27] [Server thread/INFO]: Using epoll channel type
+[12:13:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:13:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:13:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:13:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:13:28] [Server thread/INFO]: Preparing level "world"
+[12:13:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:13:32] [Server thread/INFO]: Preparing spawn area: 0%
+[12:13:32] [Server thread/INFO]: Preparing spawn area: 0%
+[12:13:32] [Server thread/INFO]: Preparing spawn area: 0%
+[12:13:32] [Server thread/INFO]: Preparing spawn area: 0%
+[12:13:32] [Server thread/INFO]: Preparing spawn area: 0%
+[12:13:32] [Server thread/INFO]: Preparing spawn area: 0%
+[12:13:32] [Server thread/INFO]: Preparing spawn area: 0%
+[12:13:32] [Server thread/INFO]: Preparing spawn area: 0%
+[12:13:32] [Server thread/INFO]: Preparing spawn area: 0%
+[12:13:32] [Server thread/INFO]: Preparing spawn area: 0%
+[12:13:33] [Server thread/INFO]: Preparing spawn area: 0%
+[12:13:33] [Server thread/INFO]: Time elapsed: 5539 ms
+[12:13:33] [Server thread/INFO]: Done (5.684s)! For help, type "help"
+[17:31:28] [Server thread/INFO]: kiersto55[/192.168.1.111:54197] logged in with entity id 292 at (14.5, 71.5625, 283.5)
+[17:31:28] [Server thread/INFO]: kiersto55 joined the game
+[17:31:35] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/297, l='ServerLevel[world]', x=-14.43, y=65.00, z=292.59]
+[17:33:40] [Server thread/INFO]: kiersto55 lost connection: Disconnected
+[17:33:40] [Server thread/INFO]: kiersto55 left the game
+[21:28:45] [Server thread/INFO]: wildstar180[/192.168.1.132:54553] logged in with entity id 604 at (-39.450048554747625, 41.0, 253.30000001192084)
+[21:28:45] [Server thread/INFO]: wildstar180 joined the game
+[21:44:01] [Server thread/INFO]: kiersto55[/192.168.1.111:49863] logged in with entity id 4395 at (35.55706032095223, 66.0, 287.65023316364574)
+[21:44:01] [Server thread/INFO]: kiersto55 joined the game
+[21:44:30] [Server thread/INFO]: kiersto55 lost connection: Disconnected
+[21:44:30] [Server thread/INFO]: kiersto55 left the game
+[21:44:40] [Server thread/INFO]: kiersto55[/192.168.1.111:49865] logged in with entity id 4508 at (35.55706032095223, 66.0, 287.65023316364574)
+[21:44:40] [Server thread/INFO]: kiersto55 joined the game
+[21:58:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6884, l='ServerLevel[world]', x=-15.69, y=65.00, z=296.56]
+[21:58:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6884, l='ServerLevel[world]', x=-15.69, y=65.00, z=296.56]
+[21:59:56] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/7091, l='ServerLevel[world]', x=-15.88, y=65.00, z=296.69]
+[21:59:56] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/7091, l='ServerLevel[world]', x=-15.88, y=65.00, z=296.69]
+[22:15:15] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/9319, l='ServerLevel[world]', x=-14.60, y=65.00, z=295.79]
+[22:15:15] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/9319, l='ServerLevel[world]', x=-14.60, y=65.00, z=295.79]
+[22:38:38] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/13209, l='ServerLevel[world]', x=-14.65, y=65.00, z=296.14]
+[22:38:38] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/13209, l='ServerLevel[world]', x=-14.65, y=65.00, z=296.14]
+[22:54:48] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/16858, l='ServerLevel[world]', x=-12.29, y=65.00, z=293.12]
+[22:54:48] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/16858, l='ServerLevel[world]', x=-12.29, y=65.00, z=293.12]
+[22:57:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/17225, l='ServerLevel[world]', x=-12.13, y=65.00, z=292.37]
+[22:57:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/17225, l='ServerLevel[world]', x=-12.13, y=65.00, z=292.37]
+[23:02:22] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/18062, l='ServerLevel[world]', x=-11.55, y=65.00, z=296.06]
+[23:02:22] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/18062, l='ServerLevel[world]', x=-11.55, y=65.00, z=296.06]
+[23:02:43] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/18108, l='ServerLevel[world]', x=-15.85, y=65.00, z=292.60]
+[23:02:43] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/18108, l='ServerLevel[world]', x=-15.85, y=65.00, z=292.60]
+[23:06:48] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/18816, l='ServerLevel[world]', x=-14.89, y=65.00, z=294.27]
+[23:06:48] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/18816, l='ServerLevel[world]', x=-14.89, y=65.00, z=294.27]
+[23:13:59] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/20055, l='ServerLevel[world]', x=-15.75, y=65.00, z=297.15]
+[23:13:59] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/20055, l='ServerLevel[world]', x=-15.75, y=65.00, z=297.15]
+[23:20:09] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/21132, l='ServerLevel[world]', x=-14.72, y=65.00, z=293.44]
+[23:20:09] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/21132, l='ServerLevel[world]', x=-14.72, y=65.00, z=293.44]
+[23:23:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[23:29:05] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/24158, l='ServerLevel[world]', x=-13.70, y=65.00, z=292.49]
+[23:38:28] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/26170, l='ServerLevel[world]', x=-15.30, y=65.00, z=295.42]
+[23:38:28] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/26170, l='ServerLevel[world]', x=-15.30, y=65.00, z=295.42]
+[23:39:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/26260, l='ServerLevel[world]', x=-16.17, y=65.00, z=294.97]
+[23:39:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/26260, l='ServerLevel[world]', x=-16.17, y=65.00, z=294.97]
+[23:42:45] [Server thread/INFO]: kiersto55 was impaled by Drowned
+[23:42:47] [Server thread/WARN]: kiersto55 moved too quickly! -106.82868647162722,21.026401145020266,4.268450717103974
+[23:45:41] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=78, y=60, z=287} fx{x=78, y=59, z=287}
+[23:45:42] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/27622, l='ServerLevel[world]', x=-11.88, y=65.00, z=294.63]
+[23:45:42] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/27622, l='ServerLevel[world]', x=-11.88, y=65.00, z=294.63]
+[23:47:11] [Server thread/INFO]: wildstar180 lost connection: Disconnected
+[23:47:11] [Server thread/INFO]: wildstar180 left the game
+[23:47:23] [Server thread/INFO]: kiersto55 lost connection: Disconnected
+[23:47:23] [Server thread/INFO]: kiersto55 left the game
+[23:50:11] [Server thread/INFO]: Stopping server
+[23:50:11] [Server thread/INFO]: Saving players
+[23:50:11] [Server thread/INFO]: Saving worlds
+[23:50:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:50:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:50:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:50:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:50:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:50:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:50:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:50:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:50:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
